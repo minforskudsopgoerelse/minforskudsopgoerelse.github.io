@@ -1,4 +1,4 @@
-- name: Pages
+- name: Sider
   link: /#
   dropdown:
     - name: Page With Sidebar
@@ -27,7 +27,7 @@
       link: /sponsors/
     - name: Image Gallery
       link: /gallery/
-- name: Products
+- name: Produkter
   link: /products/
 - name: Showcase
   link: /showcase/
