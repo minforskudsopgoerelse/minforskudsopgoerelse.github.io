@@ -1,12 +1,12 @@
 ---
 title: Minforskudsopgoerelse.dk
-subtitle: Velkommen til "Minforskudsopgørelse.dk", hvor du forhåbentlig kan blive klogere på, hvad en forskudsopgørelse er.
+subtitle: Hvor du som ung kan blive klogere på, hvordan en forskudsopgørelse kan udfyldes.
 layout: page
-callouts: home_callouts
+#callouts: home_callouts
 show_sidebar: true
 ---
 
-# Bulma Clean Theme demo website
+# Bulma Clean Theme demo website P1
 
 This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages.
 

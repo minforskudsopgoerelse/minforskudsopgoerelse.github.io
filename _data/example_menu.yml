@@ -1,11 +1,11 @@
 - label: Example Menu
   items:
-    - name: Home
+    - name: Hjem
       link: /
-    - name: Pages
+    - name: Sider
       link: /#
       items:
-        - name: Page With Sidebar 
+        - name: Page With Sidebar
           link: /page-1/
         - name: Page Without Sidebar
           link: /page-2/

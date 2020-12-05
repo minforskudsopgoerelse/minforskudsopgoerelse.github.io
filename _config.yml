@@ -1,9 +1,9 @@
 # Site Settings
 title: Minforskudsopgoerelse.dk
-tagline: få styr på din forskudsopgørelse
+tagline: Bliv klogere på forskudsopgørelser
 email: your-email@domain.com
 description: >
-  Velkommen til "Minforskudsopgørelse.dk", hvor du forhåbentlig kan blive klogere på, hvad en forskudsopgørelse er.
+  Velkommen til Minforskudsopgoerelse.dk, hvor du forhåbentlig kan blive klogere på, hvad en forskudsopgørelse er.
 baseurl: ""
 url: "https://minforskudsopgoerelse.github.io/"
 permalink: pretty
