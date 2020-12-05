@@ -1,3 +1,5 @@
+- name: Blog
+  link: /blog/
 - name: Sider
   link: /#
   dropdown:
@@ -27,9 +29,8 @@
       link: /sponsors/
     - name: Image Gallery
       link: /gallery/
-- name: Produkter
-  link: /products/
-- name: Showcase
+- name: Om
   link: /showcase/
-- name: Blog
-  link: /blog/
+  
+- name: Kontakt
+  link: /kontakt/

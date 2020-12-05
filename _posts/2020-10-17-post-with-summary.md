@@ -1,15 +1,7 @@
 ---
 layout: post
 title: Example post with a summary
-hero_image: https://www.csrhymes.com/img/example-docs-page.jpg
-hero_height: is-large
-hero_darken: true
 image: https://www.csrhymes.com/img/example-docs-page.jpg
-summary: |-
-    This is the custom summary for the post.
-
-    It can be in **markdown format** if required.
-
 ---
 
 This is the text for the post. It won't be used as the excerpt as it will use the custom summary set in the post instead.
