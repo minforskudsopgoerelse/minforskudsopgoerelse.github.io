@@ -1,7 +1,7 @@
 # Site Settings
 title: Minforskudsopgoerelse.dk
 tagline: Bliv klogere på forskudsopgørelser
-email: your-email@domain.com
+email: magnus@minforskudsopgoerelse.dk
 description: >
   Velkommen til Minforskudsopgoerelse.dk, hvor du forhåbentlig kan blive klogere på, hvad en forskudsopgørelse er.
 baseurl: ""
@@ -60,7 +60,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "C.S. Rhymes"
+      author: "Magnus J"
       layout: post
       image: https://via.placeholder.com/1200x800
       show_sidebar: true
