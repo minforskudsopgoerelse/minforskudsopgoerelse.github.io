@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Om Min Forskudsopgorelse
-subtitle: Hvad er formålet med minforskudsopgørlse.dk?
+title: Om Min Forskudsopgørelse
+subtitle: Hvad er formålet med minforskudsopgørelse.dk?
 menubar: om_menu
 show_sidebar: false
 ---

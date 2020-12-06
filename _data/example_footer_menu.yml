@@ -1,8 +1,8 @@
-- name: Home
+- name: Hjem
   link: /
 - name: Blog
   link: /blog/
-- name: Products
-  link: /products/
-- name: Privacy Policy
-  link: /privacy-policy/
+- name: Ansvarsfraskrivelse
+  link: /ansvars-fraskrivelse/
+- name: Privatlivspolitik
+  link: /privatlivspolitik/
