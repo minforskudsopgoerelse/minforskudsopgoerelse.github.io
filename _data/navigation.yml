@@ -1,6 +1,6 @@
 - name: Blog
   link: /blog/
-- name: Sider
+- name: Værktøjer
   link: /#
   dropdown:
     - name: Page With Sidebar
@@ -30,7 +30,7 @@
     - name: Image Gallery
       link: /gallery/
 - name: Om
-  link: /showcase/
-  
+  link: /om/
+
 - name: Kontakt
   link: /kontakt/
