@@ -2,7 +2,7 @@
 layout: page
 title: Om Min Forskudsopgorelse
 subtitle: Hvad er formålet med minforskudsopgoerlse.dk?
-menubar_toc: true
+toc: true
 toc_title: Indhold
 show_sidebar: false
 ---
