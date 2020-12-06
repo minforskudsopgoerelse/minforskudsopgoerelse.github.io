@@ -45,7 +45,7 @@ items:
     description: >
       The example description text goes here and can be multiple lines.
 
-      For example, such as this. 
+      For example, such as this.
     call_to_action_name: Call to action 1
     call_to_action_link: /page-1/
   - title: Example callout 2
@@ -79,3 +79,14 @@ title: Example Landing Page
 subtitle: This is an example landing page
 callouts: example_callouts
 ```
+
+## Ideen bag Min forskudsopgorelse 1
+
+Ideen bag 'Min Forskudsopgorelse' opstod, da jeg talte med flere unge, der havde svaert ved at forholde sig til deres forskudsopgorelse.De fandt det uoverskueligt og savnede forklaring i ojenhojde, ikke flere snorklede forklaringer fra voksne.
+Derfor gik jeg straks hjem og undersogte mulighederne for at lave et website med lettere forståelige forklaringer. Vi henviser stadig til [skat.dk](https://www.skat.dk), hvor det juridisk korrekte svar kan findes.
+
+## Vores forudsætninger for at hjælpe med forskudsopgorelser
+hjaowdjowa
+
+## Juridisk ansvar
+jaiopwjdoiawjd
