@@ -1,5 +1,5 @@
 ---
-title: Min forskudsopgørelse
+title: Minforskudsopgørelse.dk
 subtitle: Stedet hvor du kan blive klogere på udfyldning af forskudsopgørelser.
 layout: page
 #callouts: home_callouts

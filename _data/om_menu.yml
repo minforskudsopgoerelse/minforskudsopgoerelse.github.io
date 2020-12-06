@@ -1,15 +1,13 @@
 - label: Om
   items:
-    - name: Ideen bag Min forskudsopgorelse
-      link: /#ideen-bag-min-forskudsopgorelse
-    - name: Hjem
+    - name: Min forskudsopgorelse
       link: /
-    - name: Hjem
-      link: /
-    - name: Hjem
-      link: /
-    - name: Sider
-      link: /#
       items:
-        - name: Page With Sidebar
-          link: /page-1/
+        - name: Ideen bag
+          link: /#ideen-bag-min-forskudsopgorelse
+        - name: Vores Vision
+          link: /#vores-vision
+        - name: Vores forudsætninger
+          link: /#vores-forudsætninger
+    - name: Juridisk ansvarsfraskrivelse
+      link: /juridisk-ansvarsfraskrivelse/
