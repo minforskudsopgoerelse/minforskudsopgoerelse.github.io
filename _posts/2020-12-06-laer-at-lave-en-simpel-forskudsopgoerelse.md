@@ -1,6 +1,6 @@
 ---
 layout: post
 title: Første job og forskudsopgørelse
-tags: forskudsopgørelse første job
+tags: Forskudsopgørelse Første-job
 image: https://www.csrhymes.com/img/example-docs-page.jpg
 ---

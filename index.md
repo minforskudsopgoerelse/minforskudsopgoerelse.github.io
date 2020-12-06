@@ -1,6 +1,6 @@
 ---
 title: Min forskudsopgørelse
-subtitle: Hvor du kan blive klogere på udfyldning af forskudsopgørelser.
+subtitle: Stedet hvor du kan blive klogere på udfyldning af forskudsopgørelser.
 layout: page
 #callouts: home_callouts
 show_sidebar: true
