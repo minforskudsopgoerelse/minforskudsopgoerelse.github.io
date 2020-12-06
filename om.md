@@ -1,10 +1,9 @@
 ---
+layout: page
 title: Om Min Forskudsopgørelse
 subtitle: Hvad er formålet med minforskudsopgoerlse.dk?
 description: Læs om formålet med minforskudsopgoerlse.dk her.
-layout: page
 show_sidebar: false
-hide_hero: false
 menubar_toc: true
 toc_title: Indhold
 ---
