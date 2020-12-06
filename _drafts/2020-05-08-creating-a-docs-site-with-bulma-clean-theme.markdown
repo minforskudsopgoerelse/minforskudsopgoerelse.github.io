@@ -17,7 +17,7 @@ I created Bulma Clean Theme as a theme for my own website and decided to open so
 
 GitHub pages allows you to create a website for your project with free hosting. Go to your repo on GitHub, then click Settings, then scroll down to the GitHub Pages section. You have the option to create a site from the root of your master branch of from the /docs directory in your master branch. For this example, we are going to use the /docs directory.
 
-Don't change this setting just yet as if you don't have a docs directory there will be nothing there to publish. 
+Don't change this setting just yet as if you don't have a docs directory there will be nothing there to publish.
 
 ## Creating the docs directory
 
