@@ -1,12 +1,11 @@
 style: is-light
 items:
   - title: Nemt at bruge
-    subtitle: Find hurtigt ud af, hvad du skal oplyse
+    subtitle: Find hurtigt ud af, hvad du skal oplyse næste år
     icon: fa-wallet
-  - title: Forskellige emner
+  - title: Dækker forskellige emner
     subtitle: Læs og lær om forskudsopgørelsen
     icon: fa-book-reader
   - title: Gratis værktøjer
-    subtitle: Hurtigt og nemt
+    subtitle: Gratis downloads til excel
     icon: fa-file-excel
-    
