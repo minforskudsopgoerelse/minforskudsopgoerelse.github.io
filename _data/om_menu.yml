@@ -4,10 +4,10 @@
       link: /
       items:
         - name: Ideen bag
-          link: /#ideen-bag-min-forskudsopgorelse
+          link: /om/#ideen-bag-min-forskudsopgorelse
         - name: Vores Vision
-          link: /#vores-vision
+          link: /om/#vores-vision
         - name: Vores forudsætninger
-          link: /#vores-forudsætninger
+          link: /om/#vores-forudsætninger
     - name: Juridisk ansvarsfraskrivelse
       link: /juridisk-ansvarsfraskrivelse/
