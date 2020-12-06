@@ -4,6 +4,8 @@ title: Første job og forskudsopgørelse
 tags: Forskudsopgørelse Første-job
 description: "Du har fået dit første job og skal nu udfylde din (måske) første forskudsopgørelse. Du logger ind på Skats hjemmeside, skat.dk, og det hele ser lidt forvirrende ud."
 #image:
+summary: |-
+    Du har fået dit første job og skal nu udfylde din (måske) første forskudsopgørelse. Du logger ind på Skats hjemmeside, skat.dk, og det hele ser lidt forvirrende ud.
 ---
 
 {% include notification.html message="Bemærk venligst, at jeg ikke er økonomisk rådgiver, og at hjemmesiden ikke er tiltænkt som finansiel rådgivning." %}
