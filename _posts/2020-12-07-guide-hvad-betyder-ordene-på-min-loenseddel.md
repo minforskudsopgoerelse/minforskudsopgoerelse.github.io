@@ -7,8 +7,9 @@ description: "ATP står for Arbejdsmarkedets Tillægspension. Det er obligatoris
 summary: |-
     ATP står for Arbejdsmarkedets Tillægspension. Det er obligatorisk og lovpligtigt.
 ---
-
 {% include notification.html message="Bemærk venligst, at vi ikke er økonomisk rådgivere, og at hjemmesiden ikke er tiltænkt som finansiel rådgivning." %}
+
+## Ordbog
 
 Her kan du finde en ordbog over de mest relevante ord ifm. udfyldning af forskudsopgørelse - herunder også begreber fra lønsedler mm. Ordbogen bliver løbende opdateret, som vi bliver klogere. Hvis du vil søge i listen, kan du bruge ctrl-f på windows eller cmd-f mac.
 
@@ -43,4 +44,4 @@ Af skattepligtige goder kan følgende nævnes:
 - sundhedsforsikring
 - og andre skattepligtige goder
 
-Værdien af disse bliver typisk lagt til øverst på lønsedlen. Derefter bliver din skat beregnet af den kunstigt højere løn. Nederst på lønsedlen bliver beløbene trukket fra igen, da man ikke skal have beløbene udbetalt. Dvs. at den tillagte løn repræsenterer de personalegoder du måtte have - fx fri bil.
+Værdien af disse bliver typisk lagt til øverst på lønsedlen. Derefter bliver din skat beregnet af denne højere løn. Nederst på lønsedlen bliver beløbene trukket fra igen, da man ikke får beløbene udbetalt. Dvs. at den tillagte løn repræsenterer de personalegoder du måtte have - fx fri bil eller mobil.
