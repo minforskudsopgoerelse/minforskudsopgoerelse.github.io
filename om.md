@@ -8,7 +8,7 @@ show_sidebar: false
 
 ## Ideen bag hjemmesiden
 
-Ideen bag 'Min Forskudsopgørelse' opstod, da jeg talte med flere unge, der havde svært ved at forholde sig til deres forskudsopgørelse. De fandt det uoverskueligt og savnede forklaring i øjenhøjde, ikke flere snørklede forklaringer fra voksne.
+Ideen bag 'Minforskudsopgoerelse.dk' opstod, da jeg talte med flere unge, der havde svært ved at forholde sig til deres forskudsopgørelse. De fandt det uoverskueligt og savnede forklaring i øjenhøjde, ikke flere snørklede forklaringer fra voksne.
 Derfor gik jeg straks hjem og undersøgte mulighederne for at lave et website med mere forståelige forklaringer. Vi henviser dog fortsat til [skat.dk](https://www.skat.dk), hvor det juridisk korrekte svar kan findes.
 
 ## Vores vision
@@ -16,4 +16,4 @@ Vi har en vision om at hjælpe alle, der har svært ved at udfylde deres forskud
 
 
 ## Vores forudsætninger
-Vi har ganske vist ingen relevante uddanelser ift. forskudsopgørelser, men vi har alle prøvet at få et skattesmæk, når årsopgørelsen kommer. På baggrund af intensiv læsning på Skats hjemmeside, [skat.dk](https://www.skat.dk/), har vi forsøgt at omformulere og gøre relevant information mere forståelig. Hos Min Forskudsopgørelse har vi skabt en række nyttige værktøjer, der kan downloades gratis, for at forsøge at gøre udfyldningen af forskudsopgørelsen lettere. Hver dog opmærksom på, at vi ikke er økonomiske rådgivere, og at hjemmesiden ikke er tiltænkt som finansiel rådgivning.
+Vi har ganske vist ingen relevante uddanelser ift. forskudsopgørelser, men vi har alle prøvet at få et skattesmæk. På baggrund af intensiv læsning på Skats hjemmeside, [skat.dk](https://www.skat.dk/), har vi forsøgt at omformulere og gøre relevant information mere forståelig. Hos 'minforskudsopgoerelse.dk' har vi skabt en række nyttige værktøjer, der kan downloades gratis, for at forsøge at gøre udfyldningen af forskudsopgørelsen lettere. Vær dog opmærksom på, at vi ikke er økonomiske rådgivere, og at hjemmesiden ikke er tiltænkt som finansiel rådgivning.

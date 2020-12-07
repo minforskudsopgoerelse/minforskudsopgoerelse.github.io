@@ -3,7 +3,7 @@ title: Minforskudsopgoerelse.dk
 tagline: Bliv klogere på forskudsopgørelser
 email: magnus@minforskudsopgoerelse.dk
 description: >
-  Velkommen til Minforskudsopgoerelse.dk, hvor du forhåbentlig kan blive klogere på, hvad en forskudsopgørelse er.
+  Velkommen til Minforskudsopgoerelse.dk, hvor du kan blive klogere på, hvad en forskudsopgørelse er.
 baseurl: ""
 url: "https://minforskudsopgoerelse.github.io/"
 permalink: pretty
@@ -60,7 +60,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "Magnus J"
+      author: "Magnus"
       layout: post
       image: https://via.placeholder.com/1200x800
       show_sidebar: true
