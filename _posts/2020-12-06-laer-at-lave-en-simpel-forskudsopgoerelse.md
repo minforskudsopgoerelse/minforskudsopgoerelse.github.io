@@ -39,7 +39,7 @@ Månedsløn = 8 timer * 4 uger * 78 kr = 2.496 kr
 
 ```
 
-Man kunne umiddelbart tro, at man så skulle skrive 29.952 kr. på sin forskudsopgørelse, men det er ikke tilfældet. En typisk fejl mange unge laver, er at de glemmer, at også deres feriepenge er skattepligtige - de skal ligges til grundlønnen. Din feriepenge sats kan du finde på din lønseddel. Lad os sige, at du får 12,5% i feriepenge, og at du vil lægge disse sammen med din årsløn:
+Man kunne umiddelbart tro, at man så skulle skrive 29.952 kr. på sin forskudsopgørelse, men det er ikke tilfældet. En typisk fejl mange unge laver, er at de glemmer, at også deres feriepenge er skattepligtige - de skal ligges til grundlønnen. Din feriepenge sats kan du finde på din lønseddel (såfremt de trækker skatten ved indbetaling). Lad os sige, at du får 12,5% i feriepenge, og at du vil lægge disse sammen med din årsløn:
 
 ```python
 
@@ -51,5 +51,8 @@ Total = årsløn + feriepenge = 33.696 kr.
 ```
 
 Man skal derfor oplyse 33.696 kr. i forskudsopgørelsen. I eksemplet kan du gøre brug af dit frikort, da din indtægt er mindre en beløbsgrænsen for frikortet. Bemærk, at det kan være en god ide, at lægge lidt ekstra til, så du ikke skal betale restskat, hvis du får lidt flere timer end planlagt.
+
+Udover feriepenge skal følgende også inkluderes i felt 201:
+-
 
 Du kan finde en liste over, hvad felt 201 (feltet hvor du skal indtaste din løn) omfatter på skats hjemmeside [her](https://www.skat.dk/SKAT.aspx?oID=1536745).
