@@ -3,7 +3,7 @@ layout: post
 title: Ordbog
 tags: lønseddel forskudsopgørelse
 description: "ATP står for Arbejdsmarkedets Tillægspension. Det er obligatorisk og lovpligtigt"
-#image:
+image: https://imgur.com/a/pEzZsRW
 summary: |-
     ATP står for Arbejdsmarkedets Tillægspension. Det er obligatorisk og lovpligtigt.
 ---
