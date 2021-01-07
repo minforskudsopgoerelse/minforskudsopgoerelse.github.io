@@ -7,9 +7,9 @@ show_sidebar: false
 ---
 
 ## Lommeregner til en simpel forskudsopgørelse
-Her kan du finde et Excel-ark, en *lommeregner*, der kan hjælpe dig med den simple forskudsopgørelse. Denne forskudsopgørelse er ideel at bruge, hvis du kun har ét job og evt, hvis du modtager SU. Et mere advanceret ark kan findes længere nede.
+Her kan du finde et Excel-ark, en *lommeregner*, der kan hjælpe dig med den simple forskudsopgørelse. Denne forskudsopgørelse er ideel at bruge, hvis du kun har ét job og evt, hvis du modtager SU. Et mere advanceret ark kan findes længere nede. Bemærk, at der ikke indregnes arbejdsgiveradministreret pensionsbidrag eller ATP bidrag, da dette som regel ikke er super relevant for unge med fritidsjob.
 
-- [Download link](). *Instruktioner findes i arket*.
+- [Download link](/assets/downloads/simpel_forskudsberegner-1/). *Instruktioner findes i arket*.
 
 
 
