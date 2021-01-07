@@ -39,7 +39,7 @@ Månedsløn = 8 timer * 4 uger * 78 kr = 2.496 kr
 
 ```
 
-Man kunne umiddelbart tro, at man så skulle skrive 29.952 kr. på sin forskudsopgørelse, men det er ikke tilfældet. En typisk fejl mange unge laver, er at de glemmer, at også deres feriepenge er skattepligtige - de skal ligges til grundlønnen. Din feriepenge sats kan du finde på din lønseddel (såfremt de trækker skatten ved indbetaling). Lad os sige, at du får 12,5% i feriepenge, og at du vil lægge disse sammen med din årsløn:
+Man kunne umiddelbart tro, at man så skulle skrive 29.952 kr. på sin forskudsopgørelse, men det er ikke tilfældet. En typisk fejl mange unge laver, er at de glemmer, at også deres feriepenge er skattepligtige - de skal ligges til grundlønnen. Din sats feriepengesats kan du finde på din lønseddel (såfremt de trækker skatten ved indbetaling). Lad os sige, at du får 12,5% i feriepenge, og at du vil lægge disse sammen med din årsløn:
 
 ```python
 
