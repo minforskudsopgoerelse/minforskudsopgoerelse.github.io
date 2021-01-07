@@ -1,7 +1,9 @@
 - label: Regneark
   items:
-    - name: Regneark og værktøjer
+    - name: Min forskudsopgørelse
       link: /
       items:
         - name: Simpel lommeregner - forskudsopgørelse
           link: /om/#lommeregner-til-en-simpel-forskudsopgørelse
+        - name: Advanceret lommeregner - forskudsopgørelse
+          link: /om/#lommeregner-til-en-advanceret-forskudsopgørelse
